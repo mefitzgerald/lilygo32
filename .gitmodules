@@ -1,0 +1,6 @@
+[submodule "shields/lolin_oled_btnv/LOLIN_OLED_I2C_Button_Library"]
+	path = shields/lolin_oled_btnv/LOLIN_OLED_I2C_Button_Library
+	url = https://github.com/wemos/LOLIN_OLED_I2C_Button_Library.git
+[submodule "ESP32-MINI-32-V1.3"]
+	path = ESP32-MINI-32-V1.3
+	url = https://github.com/LilyGO/ESP32-MINI-32-V1.3.git
