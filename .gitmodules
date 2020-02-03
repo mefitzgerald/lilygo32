@@ -4,3 +4,6 @@
 [submodule "ESP32-MINI-32-V1.3"]
 	path = ESP32-MINI-32-V1.3
 	url = https://github.com/LilyGO/ESP32-MINI-32-V1.3.git
+[submodule "Micropython/micropython_workshop"]
+	path = Micropython/micropython_workshop
+	url = https://github.com/mattytrentini/micropython_workshop.git
